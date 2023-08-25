@@ -1,0 +1,39 @@
+# Changes here will be overwritten by Copier; do NOT edit manually
+_commit: v0.11.7
+_src_path: gh:entelecheia/hyperfast-python-template
+author: Young Joon Lee
+build_and_release: true
+code_template_answers_file: .copier-hyfi-config.yaml
+code_template_source: ''
+codecov_graph_token: '[REPLACE_ME]'
+copyright_year: 2023
+documentaion_tool: jupyter-book
+documentation_url: https://chu-aie.github.io/dsecon-2023
+email: entelecheia@hotmail.com
+favicon_path: https://assets.entelecheia.ai/favicon.png
+friendly_name: Data Science for Economics and Finance 2023 Course
+github_repo_name: dsecon-2023
+github_username: chu-aie
+google_analytics_id: ''
+logo_path: ''
+main_branch: main
+package_name: dsecon2023
+package_scripts:
+- dsecon2023 = 'dsecon2023.__cli__:main'
+poe_task_files:
+- .tasks.toml
+- .tasks-extra.toml
+project_description: In this course, students will delve into the cutting-edge applications
+    of Data Science in the domains of economics and finance. Leveraging the Big Data
+    era's vast data pools, the course will teach students to handle, process, link,
+    and analyze data to make impactful economic and financial forecasts. Students
+    will learn machine learning methods, text mining, sentiment analysis, and network
+    analysis as they relate to modern economics and finance.
+project_license: CC-BY-4.0
+project_name: dsecon-2023
+project_short_description: Data Science for Economics and Finance
+upload_to_release: true
+upload_to_repository: false
+use_launch_buttons: true
+use_source_code_skeleton: true
+
