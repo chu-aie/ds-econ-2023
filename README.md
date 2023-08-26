@@ -38,6 +38,7 @@ Data Science for Economics and Finance
 - GitHub: [https://github.com/chu-aie/dsecon-2023][repo-url]
 - Course Syllabus: [https://course.entelecheia.ai/kr/2023-2/dsecon/](https://course.entelecheia.ai/kr/2023-2/dsecon/)
 - Lecture Notes: [https://lecture.entelecheia.ai/lectures/dsecon/](https://lecture.entelecheia.ai/lectures/dsecon/)
+- RepoTracker ![RepoTracker](https://assets.entelecheia.ai/icons/repotracker.svg): [https://github-stats.com/chu-aie/dsecon-2023](https://github-stats.com/chu-aie/dsecon-2023)
 
 
 In this course, students will delve into the cutting-edge applications of Data Science in the domains of economics and finance. Leveraging the Big Data era's vast data pools, the course will teach students to handle, process, link, and analyze data to make impactful economic and financial forecasts. Students will learn machine learning methods, text mining, sentiment analysis, and network analysis as they relate to modern economics and finance.
