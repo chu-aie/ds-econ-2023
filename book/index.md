@@ -1,4 +1,4 @@
-# Data Science for Economics and Finance 2023 Course
+# Home
 
 [![pypi-image]][pypi-url]
 [![version-image]][release-url]
@@ -6,10 +6,15 @@
 [![license-image]][license-url]
 [![jupyter-book-image]][docs-url]
 [![codecov][codecov-image]][codecov-url]
+[![course-img]][course-url]
+[![lecture-img]][lecture-url]
+
 
 <!-- Links: -->
-[hyperfast python template]: https://github.com/entelecheia/hyperfast-python-template
-
+[course-img]: https://img.shields.io/badge/course-entelecheia.ai-blue
+[course-url]: https://course.entelecheia.ai
+[lecture-img]: https://img.shields.io/badge/lecture-entelecheia.ai-blue
+[lecture-url]: https://lecture.entelecheia.ai
 [codecov-image]: https://codecov.io/gh/chu-aie/dsecon-2023/branch/main/graph/badge.svg?token=[REPLACE_ME]
 [codecov-url]: https://codecov.io/gh/chu-aie/dsecon-2023
 [pypi-image]: https://img.shields.io/pypi/v/dsecon-2023
@@ -31,7 +36,9 @@ Data Science for Economics and Finance
 
 - Documentation: [https://chu-aie.github.io/dsecon-2023][docs-url]
 - GitHub: [https://github.com/chu-aie/dsecon-2023][repo-url]
-- PyPI: [https://pypi.org/project/dsecon-2023][pypi-url]
+- Course Syllabus: [https://course.entelecheia.ai/kr/2023-2/dsecon/](https://course.entelecheia.ai/kr/2023-2/dsecon/)
+- Lecture Notes: [https://lecture.entelecheia.ai/lectures/dsecon/](https://lecture.entelecheia.ai/lectures/dsecon/)
+- RepoTracker ![RepoTracker](https://assets.entelecheia.ai/icons/repotracker.svg): [https://github-stats.com/chu-aie/dsecon-2023](https://github-stats.com/chu-aie/dsecon-2023)
 
 In this course, students will delve into the cutting-edge applications of Data Science in the domains of economics and finance. Leveraging the Big Data era's vast data pools, the course will teach students to handle, process, link, and analyze data to make impactful economic and financial forecasts. Students will learn machine learning methods, text mining, sentiment analysis, and network analysis as they relate to modern economics and finance.
 
