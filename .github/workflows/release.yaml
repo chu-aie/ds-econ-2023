@@ -6,9 +6,15 @@ on:
   workflow_dispatch:
   workflow_run:
     workflows: ["lint & test"]
-    branches: [main]
+    branches:
+      - release*
     types:
       - completed
+  pull_request:
+    types:
+      - closed
+    branches:
+      - release*
 
 permissions:
   contents: write
